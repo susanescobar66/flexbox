@@ -24,7 +24,7 @@ header{
 	 flex-grow:4;
 }
 
-.flex-container .nav{
+.flex-container .flex-nav{
 	flex-grow:1;
 	flex-direction: column;
 }
